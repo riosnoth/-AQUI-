@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Diagrama de Clases" id="1824E737-0637-2532-862F-115E71ECDC7D" version="3.5">
+<createdBy>jaque</createdBy>
+<createdTime>2025-04-21 02:22:20 UTC</createdTime>
+<ownerDesignName>222</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1824E737-0637-2532-862F-115E71ECDC7D</designId>
+</OSDM_Design>
